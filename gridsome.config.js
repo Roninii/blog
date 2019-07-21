@@ -56,6 +56,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-sitemap',
       options: {
+        siteUrl: 'https://ronnievillarini.tech',
         cacheTime: 600000, // default
       },
     },

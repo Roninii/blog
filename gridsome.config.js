@@ -7,7 +7,7 @@ class TailwindExtractor {
 module.exports = {
   siteName: 'Blog - Ronnie Villarini',
   siteDescription: 'A Developer blog by Ronnie Villarini.',
-  siteUrl: '',
+  siteUrl: 'https://ronnievillarini.tech',
   titleTemplate: `%s | Bleda`,
   icon: 'src/favicon.png',
 
@@ -56,7 +56,6 @@ module.exports = {
     {
       use: '@gridsome/plugin-sitemap',
       options: {
-        siteUrl: 'https://ronnievillarini.tech',
         cacheTime: 600000, // default
       },
     },

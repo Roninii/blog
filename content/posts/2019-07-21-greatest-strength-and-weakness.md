@@ -1,5 +1,6 @@
 ---
 title: 'Greatest Strength and Weakness'
+slug: 'greatest-strength-and-weakness'
 description: 'what is your greatest strength and greatest weakness?'
 date: 2019-07-21 15:32:37
 author: Ronnie Villarini

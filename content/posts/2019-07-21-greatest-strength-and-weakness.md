@@ -26,13 +26,13 @@ I'm going to tell you a secret:
 ## It's Not A Bad Interview Question
 
 I feel as though it is important for me to preface this by saying, I don't hate it because it's just
-a bad question. I hate it because it my greatest weakness is <span class="font-bold text-purple-600">also</span>
+a bad question. I hate it because my greatest weakness is <span class="font-bold text-purple-600">also</span>
 my greatest strength. For me, I believe this is my "all or nothing" personality.
 
 ## WUT?
 
 What does that even mean, Ronnie? Well, for the longest time I didn't realize it - but I'm incapable of
-just "dipping my toes in". Regardless if the subject is video games, cooking, or coding - I go, for
+just "dipping my toes in". Regardless of if the subject is video games, cooking, or coding - I go, for
 lack of a better word, <span class="font-bold text-purple-600">H.A.M.</span>
 
 ## The Good
@@ -44,7 +44,7 @@ Going so overboard on just about any topic that really catches my interest gives
 -   I learn at a very accelerated pace
 
 In fact, if I hadn't been this way, I likely wouldn't have been able to make the career change from
-my seven years at Walmart to professional developer in under 6 months. Since I was so hyper-focused
+my seven years at Walmart to a professional developer in under 6 months. Since I was so hyper-focused
 and well, <span class="font-bolder text-purple-600">obsessed</span>, I was able to give up a lot.
 
 -   I have been a huge gamer since I was around 7, and I gave up gaming for that 6 months
@@ -64,7 +64,7 @@ Whoa, Whoa, Whoa. Let's start from the top, "forget who you are"?? Yes.
 
 ### Forgetting Who You Are
 
-In fear of sounding dramatic, at some point you **can** get lost in what you're doing at lose track of
+In fear of sounding dramatic, at some point you **can** get lost in what you're doing and lose track of
 who you are. As I said before, I was, and still am, a **huge** gamer. Video games for me, like many others,
 have been an awesome way to escape. When things in life weren't great and when I just needed a little
 distraction or an experience, games were always there.
@@ -82,7 +82,7 @@ with anything?
 
 Well, when I became blinded by my ambition and desires, I neglected some of my other responsibilities.
 
--   I was not spending enough time with my daughter (my yougest hadn't been born yet)
+-   I was not spending enough time with my daughter (my youngest hadn't been born yet)
 -   Sammie and I sacrificed our time together as a couple, and sometimes she sacrificed her spare time to take
     care of our oldest so that I could get more studying in.
 
@@ -95,17 +95,17 @@ try and not get so blinded in the future. This could have easily cost me my rela
 Yeah, Yeah, Yeah - I know. This is probably stretching it for a lot of you. As I said though, this is
 my experience and has a lot to do with my own addictive personality.
 
--   I stopped eating regulary, and definitely wasn't eating as healthily - only food that allowed me to get
+-   I stopped eating regularly, and definitely wasn't eating as healthily - only food that allowed me to get
     back to studying as quickly as possible
--   I stopped excercising, or really anything that would take away from the limited time I had to study
--   I sacrificed as much sleep as I could while still mainting the abilty to minimally function
+-   I stopped exercising, or really anything that would take away from the limited time I had to study
+-   I sacrificed as much sleep as I could while still maintaining the ability to minimally function
 
-I made cuts the same way a corporation does. I sacrificed anything that took away from my adbility to study
-and saw it as something that just wasn't improtant right now.
+I made cuts the same way a corporation does. I sacrificed anything that took away from my ability to study
+and saw it as something that just wasn't important right now.
 
 ## It's Okay To Be Passionate
 
-> Follow your heart, but take your brain with you.
+> Follow your heart but take your brain with you.
 >
 > ~ Haley Michael (an old friend of mine)
 

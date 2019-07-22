@@ -10,6 +10,7 @@ tags:
     - opinion
     - personal
 cover: https://unsplash.com/photos/h0rXrHzhFXU
+fullscreen: false
 ---
 
 > What is your greatest strength? What about your greatest weakness?
